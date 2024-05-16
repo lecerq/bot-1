@@ -20,3 +20,4 @@ async def task(ctx, times: int, content=random.choice(taskss)):
         await ctx.send(content)
 
 bot.run('TOKEN')
+#Я не смог придумать как сделать 1 и 3 идею
